@@ -1,0 +1,47 @@
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+/* Service Cards */
+.card {
+  border: 1px solid #e2e2e2;
+  border-radius: 12px;
+}
+
+.card .fs-1 {
+  margin-bottom: 10px;
+}
+
+.card h4 {
+  font-size: 21px;
+  margin-bottom: 12px;
+}
+
+.card p {
+  color: #666;
+  min-height: 48px;
+  margin-bottom: 20px;
+}
+
+.card .btn {
+  width: fit-content;
+  margin: 0 auto;
+}
